@@ -44,6 +44,15 @@ ul li a:hover {
     padding: 0.5rem;
 }
 
+.icon {
+    font-size: 25px;
+    color:#fff;
+    padding: 9px;
+    text-decoration: none;
+    display: none;
+    z-index: 100;
+}
+
 div.hero-section {
     background: #304353;
     padding: 10rem;
